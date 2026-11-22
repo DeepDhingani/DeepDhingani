@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://deepdhingani.github.io/"><img src="https://img.shields.io/badge/Portfolio-6c8cff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:deepdhingani14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/DeepDhingani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -20,6 +21,7 @@ I'm a full-stack developer who enjoys building complete web applications, from t
 - 🔭 Building full-stack projects with React, Node.js, Express and MongoDB
 - 🌱 Always learning and improving my code, one project at a time
 - 💼 Currently looking for **internships**, **freelance work** and **collaborations**
+- 🌐 Portfolio: [deepdhingani.github.io](https://deepdhingani.github.io/)
 - 📫 Reach me at **deepdhingani14@gmail.com**
 
 ---
